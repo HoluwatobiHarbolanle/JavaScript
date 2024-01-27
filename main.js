@@ -1,4 +1,3 @@
-// Ternary Operator
 
 // Windows Operator
 
